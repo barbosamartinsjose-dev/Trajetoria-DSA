@@ -1,0 +1,18 @@
+O Dashboard criado deve responder às seguintes perguntasde negócio:
+
+1-Qual o total de funcionários atualmente na empresa?Feito
+
+2-Qual o tempo médio de experiência dos funcionários (em anos)? Feito
+
+3-Qual o total e percentual de funcionários do gênero masculino e feminino? Feito
+
+4-Qual a média salarial mensal? Feito
+
+5-Qual o total de funcionários por função? Feito
+
+6-Qual o percentual de funcionários disponíveis para fazer hora extra?Feito
+
+7-Qual o nível de envolvimento dos funcionários no trabalhoconsiderando 4 categorias: Ruim, Baixo, Médio e Alto? Feito
+
+8-Este item não deve estar no Dashboard,mas precisa ser calculado:Qual o total e o percentual de funcionários que devem receber promoção?
+Considere a coluna “Anos" : Feito
