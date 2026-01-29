@@ -1,0 +1,9 @@
+O Dashboard precisava mostrar os seguintes KPIsde 
+
+Logística:
+1-Total de Entregas no Prazo Por Canal de Entrega: Feito
+2-Percentual de Entregas Antecipadas Por Equipede Entrega: Feito
+3-Total de Entregas Por Mês: Feito
+4-Total de Entregas de Produtos dos Top5 Vendedores: Feito
+5-Total de Entregas com Atraso Por Cidade: Feito
+6-Percentual de Entregas Por Status de Entrega: Feito
