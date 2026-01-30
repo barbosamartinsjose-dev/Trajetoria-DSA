@@ -1,0 +1,24 @@
+Os KPIs (Indicadores-Chave de Performance) são métricas importantes que a área de finanças pode usar para monitorar o desempenho financeiro de uma empresa.
+
+A seguir estão alguns dos principais KPIs da área de finanças:
+
+Fluxo de caixa: é uma medida do dinheiro que entra e sai da empresa em um determinado período de tempo. 
+
+O fluxo de caixa positivo é um sinal de que a empresa está gerando receita suficiente para cobrir suas despesas.
+
+Margem de lucro: é a porcentagem de lucro que a empresa ganha em cada venda. 
+Ela pode ser calculada dividindo o lucro líquido pela receita total.
+
+Retorno  sobre  o  investimento  (ROI):  é  uma  medida  do  retorno  que  a  empresa  está obtendo de seus investimentos. 
+O ROI pode ser calculado dividindo o lucro pelo investimento inicial.
+
+Endividamento: é a medida da quantidade de dívida que a empresa tem em relação ao seu patrimônio líquido. 
+Ele pode ser calculado dividindo a dívida total pelo patrimônio líquido.
+
+Faturamento:  é  a  receita  total  que  a  empresa  gera  em  um  determinado  período  de tempo.
+
+Custo de aquisição de clientes (CAC): é a quantidade de dinheiro que a empresa gasta para adquirir cada novo cliente. 
+Ele pode ser calculado dividindo o custo total de marketing e vendas pelo número de novos clientes.
+
+Prazo médio de pagamento (PMP): é o tempo médio que a empresa leva para pagar seus fornecedores. 
+Ele pode ser calculado dividindo o valor total das compras pelo valor total pago a fornecedores em um determinado período de tempo.
